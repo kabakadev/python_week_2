@@ -12,3 +12,6 @@ my_list.insert(1, 15)
 
 # Step 4: Extend the list with [50, 60, 70]
 my_list.extend([50, 60, 70])
+
+# Step 6: Sort the list in ascending order
+my_list.sort()
