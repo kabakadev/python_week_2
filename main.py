@@ -9,3 +9,6 @@ my_list.append(40)
 
 # Step 3: Insert 15 at the second position (index 1)
 my_list.insert(1, 15)
+
+# Step 4: Extend the list with [50, 60, 70]
+my_list.extend([50, 60, 70])
